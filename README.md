@@ -1,4 +1,4 @@
-# MommyBear - TypeScript Express Authentication Template
+# ProjectInitTemplate - TypeScript Express Authentication Template
 
 A robust TypeScript-based Express.js template with built-in authentication and authorization features. This template provides a solid foundation for building secure web applications with modern best practices.
 
